@@ -1,0 +1,9 @@
+{
+  "numberOfUpperCaseLettersForThePassword": "1",
+  "numberOfLowerCaseLettersForThePassword": "10",
+  "numberOfDigitsForThePassword": "1",
+  "numberOfCyrillicForThePassword": "1",
+  "numberOfLettersFromEmailForThePassword": "1",
+  "numberOfCharactersForTheEmailUserName": "7",
+  "numberOfCharactersForTheEmailDomainName": "4"
+}
